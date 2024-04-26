@@ -1,0 +1,2 @@
+# ishimwe-parfaite
+practical exercises
